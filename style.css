@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Piedra&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Anton&display=swap");
 
 body {
   margin: 0;
@@ -25,6 +25,7 @@ body {
   margin-bottom: 50px;
   padding: 13px 0;
   text-align: center;
+  font-family: "Anton", sans-serif;
 }
 .textbox {
   width: 100%;
